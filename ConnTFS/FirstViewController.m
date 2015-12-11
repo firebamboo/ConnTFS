@@ -23,6 +23,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     printf ("ok");
+    printf("hello");
 }
 
 @end
